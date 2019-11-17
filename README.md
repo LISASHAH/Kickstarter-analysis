@@ -2,7 +2,7 @@
 An Analysis of Kickstarter Campaign. 
 ### Challange
 Files uploaded<br>
-1.  data-1-1-3-StarterBook_Challange - Excel sheet with <br>
+1.  data-1-1-3-StarterBook_Challange.xls - Excel sheet with <br>
   a.  Calculation on outcome based goal <br>
   b.  Calculation on outcome based on launch date <br>
   c.  Analysis of outcome <br>
